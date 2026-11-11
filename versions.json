@@ -1,3 +1,21 @@
 {
-  "versions": []
+  "versions": [
+    {
+      "version": "0.2.0",
+      "date": "2026-11-11",
+      "minFormat": 1,
+      "maxFormat": 6,
+      "notes": "Prvá verzia, ktorá sa vie sama aktualizovať.\n- Spúšťač The Atlaser.exe a zložka verzie, každá verzia je samostatný súbor.\n- Okno Verzie a aktualizácie: automatické aktualizácie, prepínanie a mazanie verzií.\n- Projekt v staršom formáte sa pred prevodom spýta. Novší projekt je v zozname sivý.\n- Projekt sa dá pripnúť na verziu aplikácie.\n- Jeden projekt môže byť otvorený len v jednom okne.",
+      "url": "https://github.com/Gwerano/The-Atlaser-releases/releases/download/v0.2.0/the-atlaser-0.2.0.exe",
+      "size": 14606848,
+      "sha256": "1563c8fc1e1ee94008b84afb3c1a2c96a53c66fe187f126ec7bcb3bde6542bd2",
+      "signature": "90a953a21a59a165b6699552f4209294b6cf500794d8c3a714134ee118943ec6c38358a88a9f82d21285d7b0fb142e515d91fdef0e8ccf9bb3a43984af0b2506"
+    }
+  ],
+  "launcher": {
+    "url": "https://github.com/Gwerano/The-Atlaser-releases/releases/download/v0.2.0/the-atlaser-launcher.exe",
+    "size": 312320,
+    "sha256": "6b51823bb0a686fa1abf93db9f7e65fe231fe7686097673f0f01df0d193da1f2",
+    "signature": "b2eefd4d85fbc4a6e1e537e67735b32e0fb62548070e6bbe92994e7b446374e0e060aeff144e7968a52d0d30b259c283cbab21bdfb92f9e1ae861b7094c7e508"
+  }
 }

@@ -5,7 +5,7 @@
       "date": "2026-11-11",
       "minFormat": 1,
       "maxFormat": 6,
-      "notes": "Prvá verzia, ktorá sa vie sama aktualizovať.\n- Spúšťač The Atlaser.exe a zložka verzie, každá verzia je samostatný súbor.\n- Okno Verzie a aktualizácie: automatické aktualizácie, prepínanie a mazanie verzií.\n- Projekt v staršom formáte sa pred prevodom spýta. Novší projekt je v zozname sivý.\n- Projekt sa dá pripnúť na verziu aplikácie.\n- Jeden projekt môže byť otvorený len v jednom okne.",
+      "notes": "The first version that updates itself.\n- The Atlaser.exe launcher, and a versions folder with one file per version.\n- Versions and updates window: automatic updates, switching and deleting versions.\n- A project in an older format asks before it is converted. A project from a newer version is greyed out in the list.\n- A project can be pinned to a version of the app.\n- A project is open in one window at a time.",
       "url": "https://github.com/Gwerano/The-Atlaser-releases/releases/download/v0.2.0/the-atlaser-0.2.0.exe",
       "size": 14606848,
       "sha256": "1563c8fc1e1ee94008b84afb3c1a2c96a53c66fe187f126ec7bcb3bde6542bd2",
